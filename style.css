@@ -61,7 +61,7 @@ nav{
     padding-bottom: 10px;
     text-align: center;
     font-family: 'Lobster', cursive;
-    font-size: 60px;
+    font-size: 80px;
     color: #0e2378;
 }
 .elections{
@@ -72,14 +72,14 @@ nav{
     background-color: #ffffff46;
     background-position-x: 35%;    
     padding: 50px;
-    height: 1200px;
+    height: 2200px;
 }   
 .elections:hover{
     background-color: #ffffffb9;
     transition-duration: 3s;
 }
 .work{
-    background-image: url(images/Background\ Elections.jpg);
+    background-image: url(images/Background-work.jpg);
     background-repeat:none;
     background-size: cover;
     background-blend-mode: lighten;
@@ -93,7 +93,7 @@ nav{
     transition-duration: 3s;
 }
 .side-projects{
-    background-image: url(images/Background\ Elections.jpg);
+    background-image: url(images/side-projects.jpg);
     background-repeat:none;
     background-size: cover;
     background-blend-mode: lighten;
@@ -105,4 +105,47 @@ nav{
 .side-projects:hover{
     background-color: #ffffffb9;
     transition-duration: 3s;
+}
+
+.card-stuff {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border: 2px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    background-color: #f4f3f3a6;
+    
+}
+.small-title{
+    margin: 30px;
+    padding-bottom: 10px;
+    text-align: left;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    font-weight: 700;
+    color: #0e2378;
+}
+.small-text{
+    margin: 30px;
+    padding-bottom: 10px;
+    text-align: left;
+    font-family: 'Times New Roman', cursive;
+    font-size:40px;
+    font-weight: 700;
+    color: #0d1846;
+}
+.small-text1{
+    margin: 30px;
+    padding-bottom: 10px;
+    text-align: left;
+    font-family: 'Arial', sans-serif;
+    font-size:29px;
+    font-weight: 700;
+    color: #0d1846;
+}
+.unordered-lists{
+
 }
