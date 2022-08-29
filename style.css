@@ -1,0 +1,108 @@
+body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(135deg, #f7f7f7, #dee4eb);
+    background-image: url("img_tree.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;    
+}
+
+footer {
+    margin-top: 10px;
+    width: 100%;
+    border: 0;
+    padding: 0;
+    margin: 0;
+    bottom: 0;
+    font-family: 'kepler-std-dis', serif;
+    font-size: 17px;
+}
+
+nav{
+    background-color: #f4f3f3;
+    box-shadow: 0 5px 4px 0 rgba(0,0,0,.1);
+    font-family: 'kepler-std-dis', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    
+    
+}
+
+.Xin-Lei-Lin-logo{
+    /* use max-width instead of width, so that max width can adapt if the browser is smaller, while width just stays the same */
+    max-width: 300px;
+    max-height: auto;
+    /* max-height: 100px; */
+    margin:auto;
+    object-fit: cover;
+    object-position: left center;
+}
+
+.Xin-Lei-Lin-logo:hover{
+    filter: opacity(80%);
+    transition-duration: 0.6s;
+    transform: scale(1.02);
+}
+.list-behavior{
+    border-bottom: 2px solid #ebebeb45;
+    margin: 5px;
+}
+
+/* Here, i wanted to underline the text when it hovers over */
+.list-behavior:hover{
+    border-bottom: 2px solid #173ac5;
+    transition-duration: 0.8s;
+}
+
+.subtitle{
+    margin-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    color: #0e2378;
+}
+.elections{
+    background-image: url(images/Background\ Elections.jpg);
+    background-repeat:none;
+    background-size: cover;
+    background-blend-mode: lighten;
+    background-color: #ffffff46;
+    background-position-x: 35%;    
+    padding: 50px;
+    height: 1200px;
+}   
+.elections:hover{
+    background-color: #ffffffb9;
+    transition-duration: 3s;
+}
+.work{
+    background-image: url(images/Background\ Elections.jpg);
+    background-repeat:none;
+    background-size: cover;
+    background-blend-mode: lighten;
+    background-color: #ffffff74;
+    background-position-x: 50%;
+    padding: 50px;
+    height: 1200px;
+}   
+.work:hover{
+    background-color: #ffffffb9;
+    transition-duration: 3s;
+}
+.side-projects{
+    background-image: url(images/Background\ Elections.jpg);
+    background-repeat:none;
+    background-size: cover;
+    background-blend-mode: lighten;
+    background-color: #ffffff74;
+    background-position: 50%;
+    padding: 50px;
+    height: 1200px;
+}   
+.side-projects:hover{
+    background-color: #ffffffb9;
+    transition-duration: 3s;
+}
