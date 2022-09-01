@@ -147,7 +147,7 @@ nav{
     color: #0d1846;
 }
 .small-small-title{
-    margin-bottom: -15px;
+    /* margin-bottom: -15px; */
     text-align: center;
     font-family: 'Arial', cursive;
     font-size: 20px;
