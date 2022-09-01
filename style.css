@@ -71,7 +71,7 @@ nav{
     background-size: cover;
     background-blend-mode: lighten;
     background-color: #ffffff46;
-    background-position-x: 35%;    
+    background-position-x: 50%;    
     padding: 50px;
     min-height: 2000px;
 }   
@@ -87,7 +87,7 @@ nav{
     background-color: #ffffff74;
     background-position-x: 50%;
     padding: 50px;
-    min-height: 1000px;
+    /* min-height: 1000px; */
 }   
 .work:hover{
     background-color: #ffffffb9;
@@ -101,7 +101,6 @@ nav{
     background-color: #ffffff74;
     background-position: 50%;
     padding: 50px;
-    min-height: 1000px;
 }   
 .side-projects:hover{
     background-color: #ffffffb9;
@@ -118,12 +117,12 @@ nav{
     border: 2px solid rgba(0,0,0,.125);
     border-radius: 0.25rem;
     background-color: #f4f3f3a6;
-    
+    margin-right: -35px;
+    margin-left: -35px;
 }
 .small-title{
-    margin: 30px;
-    padding-bottom: 10px;
-    text-align: left;
+    margin: 10px;
+    text-align: center;
     font-family: 'Lobster', cursive;
     font-size: 30px;
     font-weight: 500;
@@ -132,21 +131,26 @@ nav{
 .small-text{
     margin: 20px;
     padding-bottom: 10px;
-    text-align: left;
+    text-align: center;
     font-family: 'Times New Roman', cursive;
-    font-size:18px;
+    font-size:16px;
     font-weight: 700;
     color: #0d1846;
 }
 .small-text1{
     margin: 20px;
     padding-bottom: 10px;
-    text-align: left;
+    text-align: center;
     font-family: 'Arial', sans-serif;
-    font-size:18px;
+    font-size:16px;
     font-weight: 700;
     color: #0d1846;
 }
-.unordered-lists{
-
+.small-small-title{
+    margin-bottom: -15px;
+    text-align: center;
+    font-family: 'Arial', cursive;
+    font-size: 20px;
+    font-weight:600;
+    color: #050a22;
 }
