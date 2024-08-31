@@ -97,3 +97,13 @@ nav span {
 .experience a:hover {
     color: #39677c; /* Lighter green on hover */
 }
+
+.chai-latte {
+    text-align: center;
+    margin: 40px auto;
+}
+
+.chai-latte-img {
+    max-width: 100%;
+    height: 150px;
+}
