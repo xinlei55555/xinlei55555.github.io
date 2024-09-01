@@ -38,7 +38,7 @@ header {
 
 header h1 {
     margin: 0;
-    font-size: 3em; /* Adjust font size as needed */
+    font-size: 3.5em; /* Adjust font size as needed */
 }
 
 nav {
@@ -70,7 +70,7 @@ nav span {
 .experience {
     max-width: 600px;
     margin: 10px auto;
-    padding: 10px;
+    padding: 30px;
     background-color: white; /* White background for experience section */
     border-radius: 8px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
@@ -80,11 +80,12 @@ nav span {
 .experience h2 {
     font-size: 2em;
     margin-bottom: 10px;
+    margin-top: 00px;
 }
 
 .experience p {
     font-size: 1.1em;
-    margin: 0;
+    margin: 3;
     text-align: justify; /* Justify text for better readability */
 }
 
@@ -100,10 +101,10 @@ nav span {
 
 .chai-latte {
     text-align: center;
-    margin: 40px auto;
+    margin-top: -30px auto;
 }
 
 .chai-latte-img {
     max-width: 100%;
-    height: 150px;
+    height: 250px;
 }
