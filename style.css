@@ -25,8 +25,8 @@ header {
 
 .profile-picture {
     border-radius: 50%;
-    width: 110px; /* Smaller size for the picture */
-    height: 145px;
+    width: 150px; /* Smaller size for the picture */
+    height: 210px;
     border: 2px solid #2e8b57; /* Sea green border */
     margin-right: 15px; /* Space between the image and text */
     transition: border-color 0.3s; /* Smooth transition for border color */
