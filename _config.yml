@@ -1,31 +1,11 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: Xin Lei Lin | Page
+title: Xin Lei Lin
 email: xinlei55555@gmail.com
 name: "Xin Lei Lin"
-description: >- # this means to ignore newlines until "baseurl:"
-  A website about Xin Lei Lin's projects and research. He is a computer science and molecular genetics student at the University of Toronto working as an AI researcher at Vector, and a software engineer at Amazon.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://xinlei55555.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  xinlei55555
+description: >-
+  Home Page
+baseurl: ""
+url: "https://xinlei55555.github.io"
+github_username: xinlei55555
 
 # Theme and plugins
 theme: minima
@@ -33,27 +13,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Keep the same layout as the current website
+# Custom layout
 layouts: "default"
 permalink: pretty
-
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
