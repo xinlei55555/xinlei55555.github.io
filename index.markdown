@@ -9,7 +9,7 @@ I am a Computer Science Specialist and Molecular Genetics Major at the Universit
 
 This summer, I will be joining **Amazon** as a Software Developer Intern for AWS in Vancouver.
 
-In the Fall, I will be taking a semester off to pursue research at the **Vector Institute**, working with Professor [Michael Brudno](https://vectorinstitute.ai/team/michael-brudno) on more machine learning for healthcare!
+In the fall, I will be taking a semester off to pursue research at the **Vector Institute**, working with Professor [Michael Brudno](https://vectorinstitute.ai/team/michael-brudno) on more machine learning for healthcare!
 
 ### Affiliations
 - **KITE (University Health Network)** and **Vector Institute**:  
