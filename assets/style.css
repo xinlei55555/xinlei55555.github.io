@@ -6,6 +6,7 @@ body {
     color: #333; /* Dark gray text color */
     line-height: 1.6;
     text-align: center; /* Center-align all content */
+    font-size: 20px; /* Set base font size to 18px */
 }
 
 header {
@@ -67,6 +68,28 @@ nav span {
     color: #2e8b57; /* Sea green text color */
 }
 
+a {
+    color: #2e8b57; /* Sea green color for links */
+    text-decoration: underline; /* Remove underline */
+    font-weight: bold; /* Make links bold */
+    transition: color 0.3s; /* Smooth transition for hover effect */
+}
+
+a:hover {
+    color: #4caf50; /* Lighter green on hover */
+}
+
+.content-box {
+    max-width: 950px; /* Increased width */
+    margin: 0 auto; /* Center the box horizontally */
+    padding: 20px; /* Add padding inside the box */
+    background-color: white; /* Background color of the box */
+    border: 2px solid #2e8b57; /* Border color */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    text-align: left; /* Align text to the left inside the box */
+}
+
 .experience {
     max-width: 600px;
     margin: 10px auto;
@@ -75,17 +98,18 @@ nav span {
     border-radius: 8px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
     color: #333; /* Dark gray text color */
+    text-align: center; /* Center-align text inside experience section */
 }
 
 .experience h2 {
     font-size: 2em;
     margin-bottom: 10px;
-    margin-top: 00px;
+    margin-top: 0;
 }
 
 .experience p {
     font-size: 1.1em;
-    margin: 3;
+    margin: 0;
     text-align: justify; /* Justify text for better readability */
 }
 
@@ -101,10 +125,27 @@ nav span {
 
 .chai-latte {
     text-align: center;
-    margin-top: -30px auto;
+    margin: 0 auto;
 }
 
 .chai-latte-img {
-    max-width: 100%;
-    height: 250px;
+    max-width: 200px; /* Set maximum width */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure the image is treated as a block element */
+    margin: 20px auto; /* Center the image horizontally and add vertical spacing */
+    border-radius: 10px; /* Optional: Add rounded corners */
+}
+
+footer {
+    text-align: center; /* Center-align footer text */
+    padding: 20px;
+    background-color: white; /* White background for footer */
+    border-top: 2px solid #2e8b57; /* Sea green border */
+}
+
+/* Make bold text green with a hover effect */
+strong {
+    color: black; /* Sea green color */
+    font-weight: bold; /* Ensure it stays bold */
+    transition: color 0.3s; /* Smooth transition for hover effect */
 }

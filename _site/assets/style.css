@@ -1,0 +1,151 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white; /* White background */
+    color: #333; /* Dark gray text color */
+    line-height: 1.6;
+    text-align: center; /* Center-align all content */
+    font-size: 20px; /* Set base font size to 18px */
+}
+
+header {
+    display: flex;
+    align-items: center; /* Center content vertically */
+    justify-content: center; /* Center content horizontally */
+    padding: 20px;
+    background-color: white; /* White background for header */
+    color: #2e8b57; /* Sea green text color */
+    border-bottom: 4px solid #2e8b57; /* Sea green border */
+}
+
+.header-content {
+    display: flex;
+    align-items: center; /* Center align items vertically */
+}
+
+.profile-picture {
+    border-radius: 50%;
+    width: 150px; /* Smaller size for the picture */
+    height: 210px;
+    border: 2px solid #2e8b57; /* Sea green border */
+    margin-right: 15px; /* Space between the image and text */
+    transition: border-color 0.3s; /* Smooth transition for border color */
+}
+
+.profile-picture:hover {
+    border-color: #4caf50; /* Lighter green on hover */
+}
+
+header h1 {
+    margin: 0;
+    font-size: 3.5em; /* Adjust font size as needed */
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #fffbfb; /* Light gray background for nav */
+    padding: 10px;
+    border-bottom: 2px solid #ffffff; /* White border */
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #2e8b57; /* Sea green text color */
+    font-weight: bold;
+    transition: color 0.3s;
+    font-size: 1.2em;  /* Smooth transition for text color */
+}
+
+nav a:hover {
+    color: #39677c; /* Lighter green on hover */
+}
+
+nav span {
+    margin-left: 15px;
+    color: #2e8b57; /* Sea green text color */
+}
+
+a {
+    color: #2e8b57; /* Sea green color for links */
+    text-decoration: underline; /* Remove underline */
+    font-weight: bold; /* Make links bold */
+    transition: color 0.3s; /* Smooth transition for hover effect */
+}
+
+a:hover {
+    color: #4caf50; /* Lighter green on hover */
+}
+
+.content-box {
+    max-width: 950px; /* Increased width */
+    margin: 0 auto; /* Center the box horizontally */
+    padding: 20px; /* Add padding inside the box */
+    background-color: white; /* Background color of the box */
+    border: 2px solid #2e8b57; /* Border color */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    text-align: left; /* Align text to the left inside the box */
+}
+
+.experience {
+    max-width: 600px;
+    margin: 10px auto;
+    padding: 30px;
+    background-color: white; /* White background for experience section */
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    color: #333; /* Dark gray text color */
+    text-align: center; /* Center-align text inside experience section */
+}
+
+.experience h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.experience p {
+    font-size: 1.1em;
+    margin: 0;
+    text-align: justify; /* Justify text for better readability */
+}
+
+.experience a {
+    color: #2e8b57; /* Sea green text color for links within the experience section */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold;
+}
+
+.experience a:hover {
+    color: #39677c; /* Lighter green on hover */
+}
+
+.chai-latte {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.chai-latte-img {
+    max-width: 200px; /* Set maximum width */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure the image is treated as a block element */
+    margin: 20px auto; /* Center the image horizontally and add vertical spacing */
+    border-radius: 10px; /* Optional: Add rounded corners */
+}
+
+footer {
+    text-align: center; /* Center-align footer text */
+    padding: 20px;
+    background-color: white; /* White background for footer */
+    border-top: 2px solid #2e8b57; /* Sea green border */
+}
+
+/* Make bold text green with a hover effect */
+strong {
+    color: black; /* Sea green color */
+    font-weight: bold; /* Ensure it stays bold */
+    transition: color 0.3s; /* Smooth transition for hover effect */
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ site.name }}</title>
+    <meta name="description" content="{{ page.description | default: 'A personal website for Xin Lei Lin, a Computer Science and Molecular Genetics student at the University of Toronto.' }}">
+    <meta name="keywords" content="Xin Lei Lin, Computer Science, Molecular Genetics, University of Toronto, KITE, UHN, iGEM, plasmid.ai, NSERC, Babak Taati, Pascal Tyrrell, Michael Garton, Houari Sahraoui">
+    <meta name="author" content="Xin Lei Lin">
+    <meta property="og:title" content="{{ page.title }} - {{ site.name }}">
+    <meta property="og:description" content="{{ page.description | default: 'A personal website for Xin Lei Lin, a Computer Science and Molecular Genetics student at the University of Toronto.' }}">
+    <meta property="og:image" content="{{ '/images/profile_pic.jpg' | absolute_url }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.title }} - {{ site.name }}">
+    <meta name="twitter:description" content="{{ page.description | default: 'A personal website for Xin Lei Lin, a Computer Science and Molecular Genetics student at the University of Toronto.' }}">
+    <meta name="twitter:image" content="{{ '/images/profile_pic.jpg' | absolute_url }}">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+    <link rel="icon" href="{{ '/images/ramen_png.ico' | relative_url }}">
+    {% seo %}
+</head>
+<body>
+
+    <header>
+        <div class="header-content">
+            <h1>{{ site.name }} &nbsp; &nbsp;</h1>
+            <img src="{{ '/images/profile_pic.jpg' | relative_url }}" alt="Xin Lei Lin's Profile Picture" class="profile-picture">
+        </div>
+    </header>
+
+    <nav>
+        <a href="{{ '/docs/resume_2025.pdf' | relative_url }}" target="_blank">CV</a>
+        <a href="https://www.linkedin.com/in/xin-lei-lin-024230217/" target="_blank">LinkedIn</a>
+        <a href="https://github.com/xinlei55555" target="_blank">GitHub</a>
+        <a href="mailto:xinlei.lin@mail.utoronto.ca">Email</a>
+    </nav>
+
+    <main>
+        <div class="content-box">
+            {{ content }} <!-- Jekyll content will be rendered inside this box -->
+        </div>
+        <section class="chai-latte">
+            <img src="images/cup-of-tea-vector-icon-removebg-preview.png" alt="Chai Latte" class="chai-latte-img">
+        </section>
+        
+    </main>
+
+    <footer>
+        <p>Last updated March 21, 2025</p>
+    </footer>
+
+</body>
+</html>
