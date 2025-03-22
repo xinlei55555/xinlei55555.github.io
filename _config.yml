@@ -14,5 +14,8 @@ plugins:
   - jekyll-sitemap
 
 # Custom layout
-layouts: "default"
-permalink: pretty
+defaults:
+  - scope:
+      path: "" # Apply to all files in the project
+    values:
+      layout: "default" # Use the "default" layout
