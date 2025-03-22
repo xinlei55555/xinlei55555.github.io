@@ -8,7 +8,7 @@ url: "https://xinlei55555.github.io"
 github_username: xinlei55555
 
 # Theme and plugins
-theme: minima
+theme: null
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
