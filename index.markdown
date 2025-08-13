@@ -46,4 +46,4 @@ I am currently completing a Computer Science Specialist and Molecular Genetics M
   Working as a machine Learning Researcher. Represented Canada as 1 of 12 teams at the **International Science and Engineering Fair (ISEF 2023)** in Dallas for ASL to English translation models.  
 
 ---
-*In my free time, I am a bookworm who loves to eat pho and explore niche cafes to study while sipping on chai latte!*  
+In my free time, I am a bookworm who loves to eat pho and explore niche cafes to study while sipping on chai latte!
