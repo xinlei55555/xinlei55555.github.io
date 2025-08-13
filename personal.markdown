@@ -8,14 +8,14 @@ title: Personal
  **🐼 [Personal](/personal)**  
 
 ---
-### 🌍 Languages
+## <span id="language"> 🌍 Languages </span>
 🧑‍🏫 **English**:  Native proficiency  
 👨‍🍳 **French**: Asymptotic Victor Hugo proficiency (a.k.a Native Proficiency)  
 🧙‍♂️ **Mandarin**: Li Bai proficiency (a.k.a Native Speaking Proficiency, but writing is very hard 😅)  
 👩‍🎨 **Spanish**: Gabriel Garcia Marquez proficiency (a.k.a Can Read Can Write, but answering has a 2 second ping Proficiency!)  
 
 ---
-## 🎭 Personal
+## <span id="personal"> 🎭 Personal </span>
 - **University of Toronto C. David Naylor Scholarship and Arts and Science Scholar**  
   Awarded for Academic Excellence and Leadership
 
