@@ -90,6 +90,11 @@ a:hover {
     text-align: left; /* Align text to the left inside the box */
 }
 
+/* Override text-align for section navigation within content-box */
+.content-box .section-nav {
+    text-align: center !important;
+}
+
 .experience {
     max-width: 600px;
     margin: 10px auto;
@@ -148,4 +153,182 @@ strong {
     color: black; /* Sea green color */
     font-weight: bold; /* Ensure it stays bold */
     transition: color 0.3s; /* Smooth transition for hover effect */
+}
+
+/* Section Navigation Styling */
+.section-nav {
+    background: linear-gradient(135deg, #2e8b57, #3cb371);
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 12px;
+    text-align: center !important; /* Force center alignment */
+    box-shadow: 0 4px 15px rgba(46, 139, 87, 0.2);
+    border: 2px solid #2e8b57;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    flex-wrap: wrap;
+    gap: 15px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.nav-section-link {
+    display: inline-block;
+    background: white;
+    color: #2e8b57 !important;
+    padding: 12px 24px;
+    margin: 0; /* Remove margin since we're using gap in flexbox */
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1em;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    min-width: 140px; /* Ensure consistent button sizes */
+    text-align: center;
+}
+
+.nav-section-link:hover {
+    background: #2e8b57;
+    color: white !important;
+    border-color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(46, 139, 87, 0.3);
+}
+
+.nav-section-link.active {
+    background: #2e8b57;
+    color: white !important;
+    border-color: white;
+    box-shadow: 0 4px 15px rgba(46, 139, 87, 0.4);
+}
+
+/* Section Headers with Enhanced Styling */
+h2 span[id] {
+    display: block;
+    background: linear-gradient(135deg, #2e8b57, #3cb371);
+    color: white;
+    padding: 15px 25px;
+    border-radius: 10px;
+    margin: 20px 0;
+    box-shadow: 0 4px 12px rgba(46, 139, 87, 0.3);
+    font-size: 1.3em;
+    position: relative;
+    scroll-margin-top: 80px; /* Offset for smooth scrolling */
+}
+
+h2 span[id]:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 5px;
+    background: white;
+    border-radius: 3px;
+}
+
+/* Enhanced Content Sections */
+.content-box h3 {
+    color: #2e8b57;
+    border-bottom: 2px solid #2e8b57;
+    padding-bottom: 8px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+/* Project and Affiliation List Styling */
+.content-box ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.content-box li {
+    background: #f8fffe;
+    margin: 15px 0;
+    padding: 15px;
+    border-left: 4px solid #2e8b57;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+}
+
+.content-box li:hover {
+    background: #f0fffa;
+    border-left-width: 6px;
+    transform: translateX(5px);
+    box-shadow: 0 4px 15px rgba(46, 139, 87, 0.1);
+}
+
+/* Smooth scrolling behavior */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Enhanced link styling within content */
+.content-box a {
+    background: linear-gradient(45deg, #2e8b57, #3cb371);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-decoration: none;
+    border-bottom: 2px solid #2e8b57;
+    transition: all 0.3s ease;
+    padding-bottom: 2px;
+}
+
+.content-box a:hover {
+    border-bottom-color: #3cb371;
+    transform: translateY(-1px);
+}
+
+/* Responsive design for navigation */
+@media (max-width: 768px) {
+    .section-nav {
+        flex-direction: column;
+        padding: 16px;
+        gap: 10px;
+    }
+    
+    .nav-section-link {
+        width: 80%;
+        max-width: 250px;
+        margin: 0 auto;
+        font-size: 1em;
+        padding: 10px 20px;
+    }
+    
+    h2 span[id] {
+        font-size: 1.1em;
+        padding: 12px 20px;
+    }
+}
+
+/* Quick Links Styling */
+.content-box h2:has(+ p:contains("Explore more")) + p {
+    background: #f8fffe;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: 4px solid #2e8b57;
+    margin: 20px 0;
+}
+
+.content-box ul li:has(strong:contains("View My")), 
+.content-box ul li:has(strong:contains("Personal &")) {
+    background: linear-gradient(135deg, #f8fffe, #f0fffa);
+    border-left: 4px solid #2e8b57;
+    margin: 15px 0;
+    padding: 20px;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+}
+
+.content-box ul li:has(strong:contains("View My")):hover, 
+.content-box ul li:has(strong:contains("Personal &")):hover {
+    background: linear-gradient(135deg, #f0fffa, #e8fff8);
+    border-left-width: 6px;
+    transform: translateX(5px);
+    box-shadow: 0 4px 15px rgba(46, 139, 87, 0.1);
 }
