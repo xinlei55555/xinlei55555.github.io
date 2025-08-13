@@ -29,12 +29,12 @@ title: Projects
 - **Red Handed (MakeUofT 2024)**   
   – Drowsiness detection with TensorFlow + Arduino  
   ⭐*Awards: 2nd Qualcomm & Best use of Flow*  
-  [Devpost](https://devpost.com/software/red-handed)
+  [Devpost](https://devpost.com/software/red-handed) [Github](https://github.com/xinlei55555/makeuoft2024)
 
 - **Re.Live (UofTHacks 11 2024)**   
   – Stable Diffusion + RAG for "dancing" photo albums  
   ⭐*Award: Cohere 1st Prize*  
-  [Devpost](https://devpost.com/software/retro-act)
+  [Devpost](https://devpost.com/software/retro-act) [Github](https://github.com/xinlei55555/re.live)
 
 - **Spacey (UTRA Hacks 2024)**   
   – MediaPipe hand-tracking to control a bluetooth rover remotely  
@@ -44,7 +44,7 @@ title: Projects
 - **DriveSense (Hack The North 2023)**   
   – Mobile driver-assist app with PyTorch CV models  
   ⭐*Award: Hack the North Finalist Project  (Top 12 / 264 Projects)*  
-  [Devpost](https://devpost.com/software/drive-sense)
+  [Devpost](https://devpost.com/software/drive-sense) [Github](https://github.com/xinlei55555/htn2023)
 
 - **Artificial Sign Language (ISEF 2023)**    
   – ASL to English Translation Models with CNNs and LSTMs  
