@@ -13,7 +13,7 @@ title: Home
 
 I am a machine learning researcher, broadly interested in solving the most impactful challenges in machine learning, computer vision, genetics, healthcare and longevity! 
 
-I am currently completing a Computer Science Specialist and Molecular Genetics Major at the University of Toronto (Trinity College), and have contributed to projects at the Vector Institute, AWS, and the University Health Network.
+I am currently completing a Computer Science Specialist and Molecular Genetics Major at the University of Toronto (Trinity College), and I have previously worked at the Vector Institute, Amazon Web Services RDS, and the University Health Network.
 
 ---
 ## <span id="affiliations">🎓 Affiliations</span>
