@@ -15,6 +15,11 @@ I am a machine learning researcher, broadly interested in solving the most impac
 
 I am currently completing a Computer Science Specialist and Molecular Genetics Major at the University of Toronto (Trinity College), and I have previously worked at the Vector Institute, Amazon Web Services RDS, and the University Health Network.
 
+## <span id="news">❗ News! 📝</span>
+-  ❗**Pain in 3D**: *Generating Controllable Synthetic Faces for Automated Pain Assessment* is now live at [[arxiv](https://arxiv.org/abs/2509.16727)]❗  
+-  ❗**MedSegGen**: *a mask-conditioned Latent Diffusion pipeline for low-label medical segmentation datasets* was accepted at the **RSNA Radiology Conference 2025** in Chicago❗🥳  
+
+
 ---
 ## <span id="affiliations">🎓 Affiliations</span>
 
@@ -27,15 +32,15 @@ I am currently completing a Computer Science Specialist and Molecular Genetics M
   Completed a Software Development Engineer Internship where I optimized parallel export to S3 with EMR, Hadoop Spark, and EKS, saving ~$8M/year.  
 
 - **MiDATA (University of Toronto)**:  
-  ❗MedSegGen was accepted at the RSNA Radiology Conference 2025 in Chicago❗🥳  
   *Advisor: [Prof. Pascal N. Tyrrell](https://www.tyrrell4innovation.ca/)*  
   Machine Learning Researcher developing **MedSegGen**, a mask-conditioned Latent Diffusion pipeline for low-label medical segmentation datasets.  
+  ❗**MedSegGen** was accepted at the RSNA Radiology Conference 2025 in Chicago❗🥳  
 
 - **KITE (University Health Network)**:  
   *Advisor: [Prof. Babak Taati](https://vectorinstitute.ai/team/babak-taati/)*  
-  Machine Learning Research Intern building **InfiniPose**, an autoregressive video pose detection model enabling infinite-length predictions, and
-  **Pain in 3D**: Generating Controllable Synthetic Faces for Automated Pain Assessment.
-    ❗Preprint of Pain in 3D is now live at [arxiv preprint](https://arxiv.org/abs/2509.16727)❗
+  Machine Learning Research Intern building **InfiniPose**, an autoregressive video pose detection model enabling infinite-length predictions  
+  Developed **Pain in 3D**: Generating Controllable Synthetic Faces for Automated Pain Assessment.
+  ❗**Pain in 3D** is now live at [[arxiv](https://arxiv.org/abs/2509.16727)]❗  
 
 ---
 ### 🕰️ Past Affiliations
