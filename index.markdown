@@ -33,7 +33,9 @@ I am currently completing a Computer Science Specialist and Molecular Genetics M
 
 - **KITE (University Health Network)**:  
   *Advisor: [Prof. Babak Taati](https://vectorinstitute.ai/team/babak-taati/)*  
-  Machine Learning Research Intern building **InfiniPose**, an autoregressive video pose detection model enabling infinite-length predictions.  
+  Machine Learning Research Intern building **InfiniPose**, an autoregressive video pose detection model enabling infinite-length predictions, and
+  **Pain in 3D**: Generating Controllable Synthetic Faces for Automated Pain Assessment.
+    ❗Preprint of Pain in 3D is now live at [arxiv preprint](https://arxiv.org/abs/2509.16727)❗
 
 ---
 ### 🕰️ Past Affiliations
