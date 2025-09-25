@@ -11,11 +11,11 @@ title: Projects
 
 ## <span id="conference"> 📚 Publications & Presentations </span>
 
-- **Pain in 3D**: Generating Controllable Synthetic Faces for Automated Pain
+- September 25, 2025: **Pain in 3D**: Generating Controllable Synthetic Faces for Automated Pain
 Assessment  
  ❗Preprint is now live at [arxiv preprint](https://arxiv.org/abs/2509.16727)❗
 
-- **MedSegGen**: Mask-conditioned Latent Diffusion pipeline for medical segmentation  
+- July 21, 2025: **MedSegGen**: Mask-conditioned Latent Diffusion pipeline for medical segmentation  
   ❗*Accepted at RSNA Radiology Conference 2025, Chicago* ❗🥳
 
 ---
