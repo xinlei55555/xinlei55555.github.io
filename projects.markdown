@@ -13,7 +13,7 @@ title: Projects
 
 - September 25, 2025: **Pain in 3D**: Generating Controllable Synthetic Faces for Automated Pain
 Assessment  
- ❗Preprint is now live at [arxiv preprint](https://arxiv.org/abs/2509.16727) [GitHub](https://github.com/TaatiTeam/Pain-in-3D)❗
+ ❗Preprint is now live at [arxiv preprint](https://arxiv.org/abs/2509.16727) [Code](https://github.com/TaatiTeam/Pain-in-3D) [Project page](https://xinlei55555.github.io/pain-in-3d.github.io/)❗
 
 - July 21, 2025: **MedSegGen**: Mask-conditioned Latent Diffusion pipeline for medical segmentation  
   ❗*Accepted at RSNA Radiology Conference 2025, Chicago* ❗🥳

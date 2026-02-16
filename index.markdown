@@ -13,10 +13,10 @@ title: Home
 
 I am a machine learning researcher, broadly interested in solving the most impactful challenges in machine learning, computer vision, genetics, healthcare and longevity! 
 
-I have recently joined **Ideogram** as a Member of Technical Staff on the Core ML team, working on training foundation text-to-image (T2I) models. I am currently completing a Computer Science Specialist and Molecular Genetics Major at the University of Toronto (Trinity College), and I have previously worked at the Vector Institute, Amazon Web Services RDS, and the University Health Network.
+I am currently a Member of Technical Staff (Intern) at Ideogram. I am also completing a Computer Science Specialist and Molecular Genetics Major at the University of Toronto (Trinity College), and I have previously worked at the Vector Institute, Amazon Web Services RDS, and the University Health Network.
 
 ## <span id="news">❗ News! 📝</span>
--  ❗**Pain in 3D**: *Generating Controllable Synthetic Faces for Automated Pain Assessment* is now live at [[arxiv](https://arxiv.org/abs/2509.16727)] [[GitHub](https://github.com/TaatiTeam/Pain-in-3D)]❗  
+-  ❗**Pain in 3D**: *Generating Controllable Synthetic Faces for Automated Pain Assessment* is now live at [[arxiv](https://arxiv.org/abs/2509.16727)] [[Code](https://github.com/TaatiTeam/Pain-in-3D)] [[Project page](https://xinlei55555.github.io/pain-in-3d.github.io/)]❗  
 -  ❗**MedSegGen**: *a mask-conditioned Latent Diffusion pipeline for low-label medical segmentation datasets* was accepted at the **RSNA Radiology Conference 2025** in Chicago❗🥳  
 
 
@@ -24,8 +24,8 @@ I have recently joined **Ideogram** as a Member of Technical Staff on the Core M
 ## <span id="affiliations">🎓 Affiliations</span>
 
 - **Ideogram**:  
-  *Member of Technical Staff, Core ML*  
-  Core ML team, training foundation text-to-image (T2I) models.
+  *Core ML Team*  
+  Training foundation text-to-image (T2I) models.
 
 - **Vector Institute**:  
   *Advisor: [Prof. Michael Brudno](https://vectorinstitute.ai/team/michael-brudno/)*  
@@ -44,7 +44,7 @@ I have recently joined **Ideogram** as a Member of Technical Staff on the Core M
   *Advisor: [Prof. Babak Taati](https://vectorinstitute.ai/team/babak-taati/)*  
   Machine Learning Research Intern building **InfiniPose**, an autoregressive video pose detection model enabling infinite-length predictions  
   Developed **Pain in 3D**: Generating Controllable Synthetic Faces for Automated Pain Assessment.
-  ❗**Pain in 3D** is now live at [[arxiv](https://arxiv.org/abs/2509.16727)] [[GitHub](https://github.com/TaatiTeam/Pain-in-3D)]❗  
+  ❗**Pain in 3D** is now live at [[arxiv](https://arxiv.org/abs/2509.16727)] [[Code](https://github.com/TaatiTeam/Pain-in-3D)] [[Project page](https://xinlei55555.github.io/pain-in-3d.github.io/)]❗  
 
 ---
 ### 🕰️ Past Affiliations
