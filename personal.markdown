@@ -16,8 +16,10 @@ title: Personal
 
 ---
 ## <span id="personal"> 🎭 Personal </span>
-- **University of Toronto C. David Naylor Scholarship and Arts and Science Scholar**  
-  Awarded for Academic Excellence and Leadership
+- **University of Toronto Awards**  
+  C. David Naylor Scholar for Leadership ($20k), Vector Research Grant ($15k), Arts and Science Scholar ($7.5k), 6T3 Award ($500), DCS Research Award ($7.5k Deferred) & UWaterloo President Scholar ($2k Deferred)  
+  Travel awards: ASSU Travel Award ($500), DCS Academic Travel Grant ($600) & Trinity Solar Panel Fund for Academic Travel ($1000)  
+  *I thank the donors and I am grateful for the awards and grants that have made possible my academic journey.*
 
 - **National Fencing Athlete** 🤺🤺   
   ⭐*Awards: Jean-Bernard Jouthe Scholarship Nomination, Provincial Gold Medallist, Provincial Bronze Medallist, & Team Spring Cup Event Winner*  

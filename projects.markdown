@@ -9,36 +9,39 @@ title: Projects
 
 ---
 
-## <span id="conference"> 📚 Publications & Presentations </span>
+## <span id="conference"> 📚 Publications & Talks </span>
 
-- September 25, 2025: **Pain in 3D**: Generating Controllable Synthetic Faces for Automated Pain
-Assessment  
- ❗Preprint is now live at [arxiv preprint](https://arxiv.org/abs/2509.16727) [Code](https://github.com/TaatiTeam/Pain-in-3D) [Project page](https://xinlei55555.github.io/pain-in-3d.github.io/)❗
+- **Ideogram 4.0 Technical Report: Open Model at the Forefront of Design.** Ideogram 4.0 Research Team, 2026.  
+  [report](https://ideogram.ai/blog/ideogram-4.0/)
 
-- July 21, 2025: **MedSegGen**: Mask-conditioned Latent Diffusion pipeline for medical segmentation  
-  ❗*Accepted at RSNA Radiology Conference 2025, Chicago* ❗🥳
+- **Pain in 3D: Generating Controllable Synthetic Faces for Automated Pain Assessment.** X.L. Lin, S. Mehraban, A. Moturu, B. Taati. **ICPR 2026**, Lyon, France.  
+  [arXiv](https://arxiv.org/abs/2509.16727) [Code](https://github.com/TaatiTeam/Pain-in-3D) [Project page](https://xinlei55555.github.io/pain-in-3d.github.io/)
+
+- **CrossModalVit: Cross-Attention ViT for Multimodal MRI Fusion in MGMT Methylation Prediction.** V. Sahni, K. Namdar, X.L. Lin, P.N. Tyrrell. **SPIE Medical Imaging**, 2026.
+
+- Poster Presentation, **RSNA Radiology Conference & Annual Meeting**, 2025. (**MedSegGen**)
 
 ---
 ## <span id="projects">🚀 Projects</span>
 
-- **Spydle**   
-  🎮 Multiplayer word game with GCP, Java Spring, Kubernetes, Docker, Agones, Redis  
-  [GitHub](https://github.com/FiveTotallySpies/Spydle)
-
 - **Plasmid.AI (IGEM 2024)**   
-  🧬 Fine-tuned Evo (Striped-Hyena model) for plasmid DNA generation   
-  ⭐*Awards: IGEM Top 10 Best Projects Worldwide & Best Model Prize*  
+  🧬 Fine-tuned Evo (Striped-Hyena genomic model) to generate plasmid DNA with antibacterial resistance   
+  ⭐*Awards: IGEM Top 10 of 500+ teams Worldwide & Best Model Prize*  
   [GitHub](https://github.com/igem-toronto/plasmidai)
 
 - **Red Handed (MakeUofT 2024)**   
-  😴 Drowsiness detection with TensorFlow + Arduino  
-  ⭐*Awards: 2nd Qualcomm & Best use of Flow*  
+  😴 3 neural networks and a robot arm to detect and counter drowsiness with TensorFlow & Arduino  
+  ⭐*Awards: 2nd for Qualcomm and Flow*  
   [Devpost](https://devpost.com/software/red-handed) [Github](https://github.com/xinlei55555/makeuoft2024)
 
 - **Re.Live (UofTHacks 11 2024)**   
-  📸 Stable Diffusion + RAG for "dancing" photo albums  
+  📸 Stable Diffusion and Cohere RAG to create Harry Potter-like dancing albums from static images  
   ⭐*Award: Cohere 1st Prize*  
   [Devpost](https://devpost.com/software/retro-act) [Github](https://github.com/xinlei55555/re.live)
+
+- **Spydle**   
+  🎮 Multiplayer word game with GCP, Java Spring, Kubernetes, Docker, Agones, Redis  
+  [GitHub](https://github.com/FiveTotallySpies/Spydle)
 
 - **Spacey (UTRA Hacks 2024)**   
   🚀 MediaPipe hand-tracking to control a bluetooth rover remotely  
@@ -67,4 +70,3 @@ Assessment
 - **HauteTechOrientale**  
   🌐 Designed and deployed company website with Bootstrap, HTML and CSS  
   [HauteTechOrientale](https://hautetechorientale.com/)   
-
